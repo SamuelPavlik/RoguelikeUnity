@@ -1,2 +1,2 @@
 # Roguelike
- 
+2D post-apocalyptic roguelike with randomly generated levels that the player has to traverse while avoiding zombies that try to kill him/her. Each move takes away a bit of health and therefore the player has to collect as much food as possible while traversing these levels. Each object in the level except for the zombies is destructible. The game was developed based on Unity online tutorial.
